@@ -1,0 +1,2 @@
+/skill page.txt
+/about page.txt
