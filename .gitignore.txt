@@ -1,2 +1,1 @@
-/skill page.txt
-/about page.txt
+/home page.txt
